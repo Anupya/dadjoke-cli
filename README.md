@@ -1,6 +1,10 @@
 # Dad Joke CLI
 A simple Command Line Interface (CLI) to bring you the freshest dad jokes straight to your terminal.
 
+[![HitCount](http://hits.dwyl.com/Anupya/dadjoke-cli.svg)](http://hits.dwyl.com/Anupya/dadjoke-cli) ![](https://img.badgesize.io/Anupya/dadjoke-cli/master/dadjoke.svg) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+![](https://raw.githubusercontent.com/Anupya/dadjoke-cli/master/screenshot.png)
+
 All data is from [icanhazdadjoke](https://icanhazdadjoke.com/api).
 
 ## Installation
@@ -27,7 +31,7 @@ curl "https://raw.githubusercontent.com/Anupya/dadjoke-cli/master/dadjoke" -o /u
 
 ## Usage
 
-You are all set! Go ahead and enter this in your terminal to receive a fresh dad joke every time.
+You are all set! Enter this in your terminal to receive a new dad joke :)
 
 ```
 dadjoke

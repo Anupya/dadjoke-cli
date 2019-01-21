@@ -21,6 +21,11 @@ brew install jq
 chocolatey install jq
 ```
 
+### Linux
+```
+sudo apt-get install jq
+```
+
 Find more information about installing jq [here](https://stedolan.github.io/jq/download/).    
 
 Second, run the following command in your terminal:
@@ -51,7 +56,7 @@ MIT License
 
 ## Recognition
 
-Trended #5 on ProductHunt (110+ upvotes)
+Trended #5 on ProductHunt (120+ upvotes)
 
 
 

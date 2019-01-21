@@ -49,6 +49,9 @@ vim dadjoke
 
 MIT License
 
+## Recognition
+
+Trended #5 on ProductHunt (110+ upvotes)
 
 
 

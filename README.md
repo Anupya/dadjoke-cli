@@ -54,9 +54,8 @@ vim dadjoke
 
 MIT License
 
-## Recognition
+## Accomplishments
 
-Trended #5 on ProductHunt (120+ upvotes)
-
-
+Trended #5 on ProductHunt on Jan 20, 2019 (150+ upvotes)
+Written in 1 line
 

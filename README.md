@@ -9,26 +9,7 @@ All data is from [icanhazdadjoke](https://icanhazdadjoke.com/api).
 
 ## Installation
 
-First, install jq which is a command line json parser using this command:
-
-### Mac
-```
-brew install jq
-```
-
-### Windows
-```
-chocolatey install jq
-```
-
-### Linux
-```
-sudo apt-get install jq
-```
-
-Find more information about installing jq [here](https://stedolan.github.io/jq/download/).    
-
-Second, run the following command in your terminal:
+Run the following command in your terminal:
 
 ```
 curl "https://raw.githubusercontent.com/Anupya/dadjoke-cli/master/dadjoke" -o /usr/local/bin/dadjoke && chmod +x /usr/local/bin/dadjoke

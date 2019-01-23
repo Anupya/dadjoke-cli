@@ -37,5 +37,5 @@ MIT License
 
 ## Accomplishments
 
-Trended #5 on ProductHunt on Jan 20, 2019 (160+ upvotes) <br> </br>
+Trended #5 on ProductHunt on Jan 20, 2019 (200+ upvotes) <br> </br>
 Written in 1 line

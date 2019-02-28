@@ -1,6 +1,8 @@
 # Dad Joke CLI
 A simple Command Line Interface (CLI) to bring you the freshest dad jokes straight to your terminal.
 
+<a href="https://www.producthunt.com/posts/dad-joke-cli?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-dad-joke-cli" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=143193&theme=light" alt="Dad Joke CLI - The freshest dad jokes. Straight to your terminal. | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+
 [![HitCount](http://hits.dwyl.com/Anupya/dadjoke-cli.svg)](http://hits.dwyl.com/Anupya/dadjoke-cli) ![](https://img.badgesize.io/Anupya/dadjoke-cli/master/dadjoke.svg) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![](https://raw.githubusercontent.com/Anupya/dadjoke-cli/master/screenshot.png)
@@ -34,8 +36,3 @@ vim dadjoke
 ## License
 
 MIT License
-
-## Accomplishments
-
-Trended #5 on ProductHunt on Jan 20, 2019 (200+ upvotes) <br> </br>
-Written in 1 line
